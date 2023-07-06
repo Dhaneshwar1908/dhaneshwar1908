@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Dhaneshwar Priy</h1>
 
 
-<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Computer Science & Engineering.</h3>
+<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Electronics & Communication Engineering.</h3>
 
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

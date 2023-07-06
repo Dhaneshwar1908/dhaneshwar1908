@@ -9,7 +9,7 @@
 
 <h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Electronics & Communication Engineering.</h3>
 
-## 🙋‍♀️ About Me 
+## 👨🏻‍💻 About Me 
  
  
  - 💻 Currently working on the Web Development Projects.
@@ -19,6 +19,19 @@
  - ✍ Sometimes I write articles on [Medium](https://medium.com/@dhaneshwarpriy4640).
  - ⚡ Fun fact :- I love to attend the Meetups for learning & Conferences for Networking.
  - 📫 Reach me at:- dhaneshwarpriy4640@gmail.com
+
+## 💻 My Technical Skills
+
+<p align="center">
+    
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+ </p>
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

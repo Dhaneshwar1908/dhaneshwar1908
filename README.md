@@ -36,7 +36,18 @@
   ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       » Git
       » GitHub
-       
+
+  ## 📊 My Github Stats
+
+  <br/>
+  <a href="https://github.com/Dhaneshwar1908/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaneshwar1908&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+  <br/>
+  <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhaneshwar1908&theme=dark" alt="DhaneshwarPriy"/></p>
+  </div>
+<br/>
       
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

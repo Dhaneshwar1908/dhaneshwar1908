@@ -9,6 +9,16 @@
 
 <h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Electronics & Communication Engineering.</h3>
 
+## 🙋‍♀️ About Me 
+ 
+ 
+ - 💻 Currently working on the Web Development Projects.
+ - 👯 I’m looking to collaborate on **Open Source Projects**.
+ -  ☁ Wanted to Explore the Cloud Services and contribute towards it.
+ - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**.
+ - ✍ Sometimes I write articles on [Medium]([https://medium.com/@dhaneshwarpriy4640]) 
+ - ⚡ Fun fact :- I love to attend the Meetups for learning & Conferences for Networking.
+ - 📫 Reach me at:- dhaneshwarpriy4640@gmail.com
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

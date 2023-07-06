@@ -69,6 +69,13 @@
 <a href="https://twitter.com/Dhaneshwar1908" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 
 </div>
+
+## Views and Followers
+<a href="https://github.com/Dhaneshwar1908/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Dhaneshwar1908">
+</a>
+<a href="https://github.com/Dhaneshwar1908?tab=followers"><img src="https://img.shields.io/github/followers/Dhaneshwar1908?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
       
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, there 👋
+
+<div align="center">
+<a href="#"><img width="60%" height="auto" src="[https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif )" height="90px"/></a>
+</div>
+ 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
+
+
+<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Computer Science & Engineering.</h3>
 
 <!--
 **Dhaneshwar1908/dhaneshwar1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
